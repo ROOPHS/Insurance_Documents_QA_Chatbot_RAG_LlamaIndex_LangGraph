@@ -55,18 +55,16 @@ Ensure you have the following installed:
 - Docker (optional, for containerized deployment)
 
 ### Installation
-1. Clone the repo:
-git clone https://github.com/SandeepGitGuy/Insurance_Documents_QA_Chatbot_RAG_LlamaIndex_LangGraph.git
 
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 cd Insurance_Documents_QA_Chatbot_RAG_LlamaIndex_LangGraph
 
-3. Install the required dependencies:
+2. Install the required dependencies:
 pip install -r requirements.txt
 
 - Please note: OpenAI API keys are required for the project to function.
 
-4. Run the main file from Jupyter environment:
+3. Run the main file from Jupyter environment:
 "Insurance_Docs_QA_Chatbot_RAG_Llamaindex_LangGraph.ipynb"
 
 ---
@@ -101,13 +99,5 @@ The Insurance Documents QA RAG Chatbot powered by LangGraph exemplifies cutting-
 
 ## 🛡️ License  
 Distributed under the MIT License. See `LICENSE` for more details.  
-
----
-
-## 💬 Contact  
-For questions, feedback, or collaboration opportunities:  
-- **Email**: sandy974278@gmail.com  
-- **GitHub**: [SandeepGitGuy](https://github.com/SandeepGitGuy)  
-- **LinkedIn**: [Sandeep Gowda](https://www.linkedin.com/in/sandeepgowda24a319192)  
 
 ---
